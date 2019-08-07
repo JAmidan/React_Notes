@@ -2,3 +2,6 @@ git clone https://github.com/JAmidan/React_Notes.git
 
 git config --global user.email "JAmidan@GMail.com"
 git config --global user.name "Jason Amidan"
+
+git config --global user.email "JAmidan@users.noreply.github.com"
+git commit --amend --reset-author 
