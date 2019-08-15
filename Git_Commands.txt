@@ -1,7 +1,9 @@
+
 git clone https://github.com/JAmidan/React_Notes.git
 
 git config --global user.email "JAmidan@GMail.com"
 git config --global user.name "Jason Amidan"
 
+Ran this command after getting error message saying commits were blocked becouse my email address would be exposed. 
 git config --global user.email "JAmidan@users.noreply.github.com"
 git commit --amend --reset-author 
